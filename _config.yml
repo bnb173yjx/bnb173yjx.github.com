@@ -39,10 +39,10 @@ timezone:      null
 
 
 #Site config
-title: yjtblog
+title: 9leg
 description: java技术文章
 keywords: Java
-url: http://yjtblog.me
+url: http://9leg.com
 feed: /atom.xml
 favicon: /images/shortcut.jpg
 
