@@ -88,9 +88,9 @@ follow:
 #Links
 customLinks:
   - item:
-    - text:布丁动画下载Demo
+    - text: 布丁动画下载Demo
       url: https://github.com/bnb173yjx/puddingAnimationDemo/
-    - text:遮罩动画Demo
+    - text: 遮罩动画Demo
       url: https://github.com/bnb173yjx/maskAnimationDemo/
     - text: Jekyll
       url: http://jekyllrb.com/
