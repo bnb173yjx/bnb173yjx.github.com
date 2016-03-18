@@ -97,18 +97,18 @@ customLinks:
     - text: Jekyll Theme
       url: http://www.zhanxin.info/themes.html
     message: Friends    
-  - item:
-    - text: Java Code Geeks
-      url: http://www.javacodegeeks.com/
-    - text: Web Developer
-      url: http://www.fromdev.com/
-    - text: BeginnersBook
-      url: http://beginnersbook.com/
-    - text: Mkyong
-      url: http://www.mkyong.com/
-    - text: Java By Nataraj
-      url: http://javabynataraj.blogspot.in/
-    message: About Java
+  #- item:
+   # - text: Java Code Geeks
+   #   url: http://www.javacodegeeks.com/
+   # - text: Web Developer
+    #  url: http://www.fromdev.com/
+   # - text: BeginnersBook
+   #   url: http://beginnersbook.com/
+   # - text: Mkyong
+   #   url: http://www.mkyong.com/
+   # - text: Java By Nataraj
+   #   url: http://javabynataraj.blogspot.in/
+   # message: About Java
 
 #googleAnaly, your id link UA-12345678-X
 googleAnaly:
