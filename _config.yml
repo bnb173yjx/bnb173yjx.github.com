@@ -42,7 +42,7 @@ timezone:      null
 title: yjtblog
 description: iOS 开发技术文章
 keywords: iOS
-url: yjtblog.me
+url: http://yjtblog.me
 feed: /atom.xml
 favicon: /images/shortcut.jpg
 
