@@ -124,9 +124,9 @@ baiduTongji:
 disqus:
   config: false
   id:
-duoshuo:
-  config: true
-  id:
+#duoshuo:
+#  config: true
+#  id:
 
 #baidu share config
 baiduShare:
