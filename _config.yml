@@ -50,7 +50,7 @@ favicon: /images/shortcut.jpg
 nav:
   - text: 首页
     url: /index.html
-  - text: 分类目录 
+  - text: 分类目录
     url: /categories.html
   - text: 文章归档
     url: /archives.html
@@ -83,20 +83,20 @@ follow:
   #- class: icon-twitter
     #url: http://twitter.com/
   #- class: icon-google-plus
-    #url: 
+    #url:
 
 #Links
 customLinks:
   - item:
     - text:布丁动画下载Demo
-      url: https://github.com/bnb173yjx/puddingAnimationDemo
+      url: https://github.com/bnb173yjx/puddingAnimationDemo/
     - text:遮罩动画Demo
-      url: https://github.com/bnb173yjx/maskAnimationDemo
+      url: https://github.com/bnb173yjx/maskAnimationDemo/
     - text: Jekyll
-      url: http://jekyllrb.com
+      url: http://jekyllrb.com/
     - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
-    message: Friends    
+      url: http://www.zhanxin.info/themes.html/
+    message: Friends
   #- item:
    # - text: Java Code Geeks
    #   url: http://www.javacodegeeks.com/
@@ -118,17 +118,16 @@ googleAnaly:
 #baidu tongji
 baiduTongji:
   config: true
-  id: 
+  id:
 
 #comment config
 disqus:
   config: false
-  id: 
+  id:
 duoshuo:
   config: true
-  id: 
+  id:
 
 #baidu share config
 baiduShare:
   config: true
-  
