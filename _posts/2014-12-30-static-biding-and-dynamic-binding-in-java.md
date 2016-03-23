@@ -6,7 +6,8 @@ category: "日常"
 ---
 
 
-![](https://github.com/bnb173yjx/bnb173yjx.github.com/blob/master/images/header.jpg)
+![https://github.com/bnb173yjx/bnb173yjx.github.com/blob/master/images/header.jpg]()
+
 最近一个大学同学也想进入互联网行业,因为现在互联网的发展趋势在各行业来说是最为乐观的,不少对自己行业和自己的职位不满意的人都纷纷转行投入到互联网开发大军当中,互联网大军当中也有不少人不满当今互联网行业中普遍存在的加班现象而纷纷转行,作为一个iOS开发人员,自己对这种现象也习以为常了,同学来问我的话,自己也给不了什么深刻的建议,毕竟每个人的心态都是不同的.
 
 ### 互联网的薪资与前景
