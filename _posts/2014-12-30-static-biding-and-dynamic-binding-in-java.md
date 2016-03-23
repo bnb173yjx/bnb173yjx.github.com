@@ -24,5 +24,5 @@ category: "日常"
 * 市场确实鱼龙混杂,开发者也越来越只注重开发速度,却不注重开发效率,三方盛行,不是你盗用我的,就是你盗用我的,当然胡龙混杂当中也是有龙的.
 我不建议每个人都因为互联网的薪资高而投入这个行业,人一旦从事了一份你不喜欢的工作将是十分痛苦的,说了那么多也不知道想说什么,自己也不擅长写这些日常的总结,如果对我的技术感兴趣的朋友们可以去我的另一个博客园的网址上看看
 <a href="
-http://www.cnblogs.com/yejingtian/"/>http://www.cnblogs.com/yejingtian/</a>
+http://www.cnblogs.com/yejingtian/">http://www.cnblogs.com/yejingtian/</a>
 ,gitHub的博客我不打算发一些技术贴了,就写写日常琐碎的事情吧,第一篇博文就到此为止;
