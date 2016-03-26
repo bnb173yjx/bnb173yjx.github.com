@@ -88,6 +88,8 @@ follow:
 #Links
 customLinks:
   - item:
+    - text: 动力框架动画Demo
+      url: https://github.com/bnb173yjx/DynamaticRopeBallDemo/
     - text: 布丁动画下载Demo
       url: https://github.com/bnb173yjx/puddingAnimationDemo/
     - text: 遮罩动画Demo
